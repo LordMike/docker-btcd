@@ -4,6 +4,11 @@
 
 btcd server started with command line arguments matching environment variables.
 
+### Volumes
+
+* `/root/.btcd` root folder for data and logs
+* `/root/.btcctl` btcctl stuff
+
 ### Environment variables
 * BTCD_TESTNET
 * BTCD_PROXY
